@@ -1,0 +1,18 @@
+Team SecureKey 
+Final Youtube Video
+
+https://youtu.be/dENpR9ebzVw
+
+Steps:
+
+1) Roman acts on behalf of Patrick and Justin to complete a real-estate transaction.  Roman creates a new project, with a new document, and then requests Patrick and Justin sign it.
+
+2) 0 of 2 signatures
+
+3) Justin recieves an email, and remotely signs from his iPhone (on the right). His identity is confirmed via Verified.Me
+
+4) Patrick's turn. He recieves the email notificationonce Justin has completed his signatre. Patrick signs from his Android (on the left).
+
+5) 2 of 2 signatures have been recieved, and the document has now been legally signed.
+
+This completes buyer's leg of the transaction.
